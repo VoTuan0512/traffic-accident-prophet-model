@@ -29,7 +29,9 @@ Công cụ
 - Excel: trực quan hóa biểu đồ dùng cho kết quả phân tích
 - Python:  để xử lý dữ liệu và trực quan hóa bằng một số thư viện như: Prophet cho việc phân tích chuỗi thời gian và numpy , statsmodel , scipy , matplotlib ,... cho việc sử dụng các phương pháp thống kê và trực quan hóa kết quả
 
-- Phương pháp: Tách chuỗi thời gian thành các phần Xu hướng (trend) , Chu kỳ (Season) và Phần dư (Residual) để hiểu rõ điều gì đang ảnh hưởng đến dữ liệu
+Phương pháp
+
+- Tách chuỗi thời gian thành các phần Xu hướng (trend) , Chu kỳ (Season) và Phần dư (Residual) để hiểu rõ điều gì đang ảnh hưởng đến dữ liệu
 
 Nội dung được trình bày bằng tiếng Việt, hướng tới đối tượng là cộng đồng và cơ quan chức năng trong nước.
 
