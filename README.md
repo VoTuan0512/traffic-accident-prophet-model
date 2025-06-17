@@ -21,6 +21,7 @@ Mục tiêu là khám phá xu hướng thay đổi theo thời gian, xác địn
 └── README.md                                                                                # Mô tả dự án
 
 **🛠 Công cụ và phương pháp**
+
 Công cụ
 - SQL: truy vấn dữ liệu gồm các kỹ thuật truy vấn như: Conditional & Logical (case when), CTE, Window Functions , Transformation (cast, round),...
 - Excel: trực quan hóa biểu đồ dùng cho kết quả phân tích
