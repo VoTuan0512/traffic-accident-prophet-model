@@ -11,9 +11,12 @@ Mục tiêu là khám phá xu hướng thay đổi theo thời gian, xác địn
 
 
 **📁 Cấu trúc thư mục**
-├── traffic_accident_summary_exploration[Here(#traffic_accident_summary_exploration)]        # trình bày những truy vấn cơ bản để mô tả dữ liệu
-├── traffic_accident_time_series_analysis[Here(#traffic_accident_time_series_analysis)]      # trình bày quá trình phân tích chuỗi thời gian
-├── traffic_accident_analysis_presentation[Here(#traffic_accident_analysis_presentation)]    # trình bày kết quả phân tích 
+├── traffic_accident_summary_exploration[Here](#traffic-accident-summary-exploration)        # trình bày những truy vấn cơ bản để mô tả dữ liệu
+
+├── traffic_accident_time_series_analysis[Here](#traffic_accident_time_series_analysis)      # trình bày quá trình phân tích chuỗi thời gian
+
+├── traffic_accident_analysis_presentation[Here](#traffic_accident_analysis_presentation)    # trình bày kết quả phân tích 
+
 └── README.md                                                                                # Mô tả dự án
 **🛠 Công cụ và phương pháp**
 Công cụ
