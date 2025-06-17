@@ -19,6 +19,7 @@ Mục tiêu là khám phá xu hướng thay đổi theo thời gian, xác địn
 ├── traffic_accident_analysis_presentation[Here](#traffic_accident_analysis_presentation)    # trình bày kết quả phân tích 
 
 └── README.md                                                                                # Mô tả dự án
+
 **🛠 Công cụ và phương pháp**
 Công cụ
 - SQL: truy vấn dữ liệu gồm các kỹ thuật truy vấn như: Conditional & Logical (case when), CTE, Window Functions , Transformation (cast, round),...
