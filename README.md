@@ -1,8 +1,9 @@
 **📊 Phân Tích Tai Nạn Giao Thông Tại Việt Nam (2023–2024)**
 
 **🔍 Tổng quan**
+
 Repository này chứa toàn bộ quá trình phân tích dữ liệu tai nạn giao thông tại Việt Nam trong giai đoạn từ năm 2023 đến 2024. 
-Mục tiêu là khám phá xu hướng thay đổi theo thời gian, xác định các thời điểm cao điểm, phân tích nguyên nhân gây tai nạn và trình bày song song những đề suất tương ứng để cải thiện giao thông đường bộ.
+Mục tiêu là khám phá xu hướng thay đổi theo thời gian, xác định các thời điểm cao điểm theo các nguyên nhân gây tai nạn và trình bày song song những đề suất tương ứng để cải thiện giao thông đường bộ.
 
 **🎯 Mục tiêu phân tích**
 - Quan sát xu hướng của tai nạn giao thông trong hai năm 2023 và 2024.
