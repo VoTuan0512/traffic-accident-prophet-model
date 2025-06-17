@@ -37,7 +37,8 @@ Nội dung được trình bày bằng tiếng Việt, hướng tới đối tư
 
 **📌 Một số phát hiện chính**
 
-Tai nạn giao thông có xu hướng giảm theo thời gian, nhưng mức độ giảm trong xu hướng đang yếu dần về cuối năm --> Điều tiết giao thông về cuối năm vẫn còn nhiều bất cập.
+Tai nạn giao thông có xu hướng giảm theo thời gian, nhưng mức độ giảm trong xu hướng đang yếu dần về cuối năm 
+--> Điều tiết giao thông về cuối năm vẫn còn nhiều bất cập.
 ![image](https://github.com/user-attachments/assets/6f47726f-0b47-4259-9ed3-5529ca3734f1)
 
 
