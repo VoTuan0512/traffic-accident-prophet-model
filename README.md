@@ -53,4 +53,4 @@ Các yếu tố tự nhiên (mưa lớn, bão) không gây ra nhiều vụ tai n
 
 
 **✍️ Tác giả**
-Phân tích và thực hiện bởi [Nguyễn Võ Anh Tuấn], một người yêu thích lĩnh vực phân tích dữ liệu và mong muốn chia sẽ những phân tích và đề suất cơ bản để góp phẩn cải thiện an toàn giao thông tại Việt Nam.
+Phân tích và thực hiện bởi Nguyễn Võ Anh Tuấn, một người yêu thích lĩnh vực phân tích dữ liệu và mong muốn chia sẽ những phân tích và đề suất cơ bản để góp phẩn cải thiện an toàn giao thông tại Việt Nam.
