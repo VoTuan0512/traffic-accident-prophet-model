@@ -14,13 +14,13 @@ Mục tiêu là khám phá xu hướng thay đổi theo thời gian, xác địn
 
 **📁 Cấu trúc repository**
 
-├── traffic_accident_summary_exploration[Here](https://github.com/VoTuan0512/traffic-accident-prophet-model/blob/master/traffic_accident_summary_exploration.sql)              --> trình bày những truy vấn cơ bản để mô tả dữ liệu
+├── traffic_accident_summary_exploration [Here](https://github.com/VoTuan0512/traffic-accident-prophet-model/blob/master/traffic_accident_summary_exploration.sql)              --> trình bày những truy vấn cơ bản để mô tả dữ liệu
 
-├── traffic_accident_time_series_analysis[Here](https://github.com/VoTuan0512/traffic-accident-prophet-model/blob/master/traffic_accident_time_series_analysis.ipynb)           --> trình bày quá trình phân tích chuỗi thời gian
+├── traffic_accident_time_series_analysis [Here](https://github.com/VoTuan0512/traffic-accident-prophet-model/blob/master/traffic_accident_time_series_analysis.ipynb)           --> trình bày quá trình phân tích chuỗi thời gian
 
-├── traffic_accident_analysis_presentation[Here](https://github.com/VoTuan0512/traffic-accident-prophet-model/blob/master/traffic_accident_analysis_presentation.pdf)           --> trình bày kết quả phân tích 
+├── traffic_accident_analysis_presentation [Here](https://github.com/VoTuan0512/traffic-accident-prophet-model/blob/master/traffic_accident_analysis_presentation.pdf)           --> trình bày kết quả phân tích 
 
-└── README.md                                                                                                                                                                   --> Mô tả dự án
+└── README.md                                                                                                                                                                    --> Mô tả dự án
 
 **🛠 Công cụ và phương pháp**
 
