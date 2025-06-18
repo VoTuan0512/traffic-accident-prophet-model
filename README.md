@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bebf92b5-5e82-4329-9383-c1c80899e20c)![image](https://github.com/user-attachments/assets/bebf92b5-5e82-4329-9383-c1c80899e20c)**📊 Phân Tích Tai Nạn Giao Thông Tại Việt Nam (2023–2024)**
+**📊 Phân Tích Tai Nạn Giao Thông Tại Việt Nam (2023–2024)**
 
 **🔍 Tổng quan**
 
