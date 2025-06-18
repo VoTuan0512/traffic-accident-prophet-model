@@ -12,7 +12,7 @@ Mục tiêu là khám phá xu hướng thay đổi theo thời gian, xác địn
 - Trình bày tình hình thực tế ở các thời điểm xảy ra tai nạn giao thông.
 
 
-**📁 Cấu trúc thư mục**
+**📁 Cấu trúc repository**
 
 ├── traffic_accident_summary_exploration[Here](https://github.com/VoTuan0512/traffic-accident-prophet-model/blob/master/traffic_accident_summary_exploration.sql)              --> trình bày những truy vấn cơ bản để mô tả dữ liệu
 
