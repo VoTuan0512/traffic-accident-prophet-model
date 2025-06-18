@@ -1,4 +1,4 @@
-**📊 Phân Tích Tai Nạn Giao Thông Tại Việt Nam (2023–2024)**
+![image](https://github.com/user-attachments/assets/bebf92b5-5e82-4329-9383-c1c80899e20c)![image](https://github.com/user-attachments/assets/bebf92b5-5e82-4329-9383-c1c80899e20c)**📊 Phân Tích Tai Nạn Giao Thông Tại Việt Nam (2023–2024)**
 
 **🔍 Tổng quan**
 
@@ -16,11 +16,11 @@ Mục tiêu là khám phá xu hướng thay đổi theo thời gian, xác địn
 
 ├── traffic_accident_summary_exploration[Here](https://github.com/VoTuan0512/traffic-accident-prophet-model/blob/master/traffic_accident_summary_exploration.sql)              --> trình bày những truy vấn cơ bản để mô tả dữ liệu
 
-├── traffic_accident_time_series_analysis[Here](https://github.com/VoTuan0512/traffic-accident-prophet-model/blob/master/traffic_accident_time_series_analysis.ipynb)            --> trình bày quá trình phân tích chuỗi thời gian
+├── traffic_accident_time_series_analysis[Here](https://github.com/VoTuan0512/traffic-accident-prophet-model/blob/master/traffic_accident_time_series_analysis.ipynb)           --> trình bày quá trình phân tích chuỗi thời gian
 
-├── traffic_accident_analysis_presentation[Here](https://github.com/VoTuan0512/traffic-accident-prophet-model/blob/master/traffic_accident_analysis_presentation.pdf)          --> trình bày kết quả phân tích 
+├── traffic_accident_analysis_presentation[Here](https://github.com/VoTuan0512/traffic-accident-prophet-model/blob/master/traffic_accident_analysis_presentation.pdf)           --> trình bày kết quả phân tích 
 
-└── README.md                                                                                      --> Mô tả dự án
+└── README.md                                                                                                                                                                   --> Mô tả dự án
 
 **🛠 Công cụ và phương pháp**
 
@@ -43,7 +43,9 @@ Tai nạn giao thông có xu hướng giảm theo thời gian, nhưng mức đ�
 
 
 Các yếu tố tự nhiên (mưa lớn, bão) không gây ra nhiều vụ tai nạn và thương vong so với yếu tố con người nhưng đều gây ra tai nạn quanh năm đòi hỏi hệ thống cảnh báo và cơ sở hạ tầng tốt hơn.
-![image](https://github.com/user-attachments/assets/ba41efdd-b084-4e3f-a239-947a2c62cb76)
+![image](https://github.com/user-attachments/assets/f0d7f17f-dc4a-47d0-abb4-310bbe5183cb)
+
+
 
 
 **✍️ Tác giả**
