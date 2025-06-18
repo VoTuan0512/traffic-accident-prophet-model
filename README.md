@@ -39,10 +39,14 @@ Nội dung được trình bày bằng tiếng Việt, hướng tới đối tư
 
 Tai nạn giao thông có xu hướng giảm theo thời gian, nhưng mức độ giảm trong xu hướng đang yếu dần về cuối năm 
 --> Điều tiết giao thông về cuối năm vẫn còn nhiều bất cập.
-![image](https://github.com/user-attachments/assets/6f47726f-0b47-4259-9ed3-5529ca3734f1)
+
+![image](https://github.com/user-attachments/assets/590f98f5-970b-44a1-8ed1-2d4c3a0f6d3e)
+
+
 
 
 Các yếu tố tự nhiên (mưa lớn, bão) không gây ra nhiều vụ tai nạn và thương vong so với yếu tố con người nhưng đều gây ra tai nạn quanh năm đòi hỏi hệ thống cảnh báo và cơ sở hạ tầng tốt hơn.
+
 ![image](https://github.com/user-attachments/assets/f0d7f17f-dc4a-47d0-abb4-310bbe5183cb)
 
 
